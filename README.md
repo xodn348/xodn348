@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Finance background. Code by choice. Maximum freedom.</em>
+  Finance background | Code by choice | Maximum freedom
 </p>
 
 <picture>
