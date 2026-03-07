@@ -83,7 +83,7 @@
         font-size: 140px;
         font-weight: 700;
         letter-spacing: 8px;
-        fill: #6e7681;
+        fill: #c9d1d9;
         animation: glitch 4s infinite;
       }
 
@@ -105,16 +105,15 @@
         animation: ghost-shift-alt 4s infinite;
       }
     </style>
-
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="0" stdDeviation="1.5" flood-color="#000000" flood-opacity="0.35"/>
-    </filter>
   </defs>
 
+  <!-- Dark background — consistent look on both dark and light GitHub themes -->
+  <rect width="600" height="200" fill="#0d1117" rx="8"/>
+
   <!-- Chromatic aberration ghost layers — only visible during glitch bursts -->
-  <text class="ghost-red" x="300" y="138" text-anchor="middle" dominant-baseline="central" filter="url(#shadow)">404</text>
-  <text class="ghost-cyan" x="300" y="138" text-anchor="middle" dominant-baseline="central" filter="url(#shadow)">404</text>
+  <text class="ghost-red" x="300" y="138" text-anchor="middle" dominant-baseline="central">404</text>
+  <text class="ghost-cyan" x="300" y="138" text-anchor="middle" dominant-baseline="central">404</text>
 
   <!-- Primary text -->
-  <text class="main-text" x="300" y="138" text-anchor="middle" dominant-baseline="central" filter="url(#shadow)">404</text>
+  <text class="main-text" x="300" y="138" text-anchor="middle" dominant-baseline="central">404</text>
 </svg>
