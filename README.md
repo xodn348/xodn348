@@ -2,14 +2,15 @@
   Finance background | Code by choice | Maximum freedom
 </p>
 
+<p align="center">
+  <a href="https://tokscale.ai/u/xodn348">
+    <img src="https://tokscale.ai/api/embed/xodn348/svg" alt="Tokscale Stats">
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xodn348/xodn348/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xodn348/xodn348/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/xodn348/xodn348/output/github-snake.svg" />
 </picture>
 
-<p align="center">
-  <a href="https://tokscale.ai/u/xodn348">
-    <img src="https://tokscale.ai/api/embed/xodn348/svg" alt="Tokscale Stats">
-  </a>
-</p>
