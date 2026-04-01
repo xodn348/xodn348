@@ -7,3 +7,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xodn348/xodn348/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/xodn348/xodn348/output/github-snake.svg" />
 </picture>
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/xodn348/svg)](https://tokscale.ai/u/xodn348)
