@@ -8,4 +8,8 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/xodn348/xodn348/output/github-snake.svg" />
 </picture>
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/xodn348/svg)](https://tokscale.ai/u/xodn348)
+<p align="center">
+  <a href="https://tokscale.ai/u/xodn348">
+    <img src="https://tokscale.ai/api/embed/xodn348/svg" alt="Tokscale Stats">
+  </a>
+</p>
