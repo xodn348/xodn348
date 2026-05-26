@@ -29,9 +29,9 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 - [cleanup](https://github.com/xodn348/cleanup) — Passive tool-usage tracking + proactive removal recommendations for Claude Code. Never auto-deletes. — Shell
 - [BTC_EXP](https://github.com/xodn348/BTC_EXP) — Bitcoin network explorer and analysis tools — Python
 - [han](https://github.com/xodn348/han) — A compiled programming language with Korean keywords, written in Rust — Rust · ★ 180
-- [ai-news-radar](https://github.com/xodn348/ai-news-radar) — 📡 AI 소식, 어디서 가장 먼저 터지는가? — 속도 순으로 정렬한 AI 뉴스 소스 큐레이션 (X · Reddit · 뉴스레터 · 논문 · YouTube) — Python
 - [destiny](https://github.com/xodn348/destiny) — Daily fortune-telling plugin for Claude Code. — Python · ★ 63
 - [cc-img-proxy](https://github.com/xodn348/cc-img-proxy) — PTY proxy that renders inline images in Claude Code via iTerm2 OSC 1337 — TypeScript
+- [AIminer](https://github.com/xodn348/AIminer) — AI-powered cryptocurrency miner with MCP protocol integration and multi-coin profit switching — Python
 
 ### Most-starred repos
 
@@ -43,5 +43,5 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 
 Full catalog: [projects.md](projects.md) · Machine feed: [projects.json](projects.json) · RSS: [feed.xml](feed.xml)
 
-Last updated: 2026-05-25 23:08 UTC
+Last updated: 2026-05-26 17:37 UTC
 <!-- XODN348-LAB-CHANNEL:END -->
