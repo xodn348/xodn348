@@ -1,9 +1,10 @@
 # xodn348 public project catalog
 
-Generated from public GitHub repository metadata at 2026-05-28 17:46 UTC.
+Generated from public GitHub repository metadata at 2026-05-29 17:46 UTC.
 
 | Project | Description | Lang | Stars | Updated |
 |---|---|---:|---:|---:|
+| [destiny](https://github.com/xodn348/destiny) | Daily fortune-telling plugin for Claude Code. | Python | 64 | 2026-05-29 |
 | [deeper](https://github.com/xodn348/deeper) | Depth-first interview agent driven by Huntley's ralph + feedback loops. Drills one claim to bedrock (first principle / source of truth); never expands. Per-round fresh subagent dispatch + path-bias self-improvement. | Shell | 0 | 2026-05-27 |
 | [clawpay](https://github.com/xodn348/clawpay) | Open-source payment MCP server for AI agents — Lithic & Stripe & PayPal | TypeScript | 0 | 2026-05-22 |
 | [llm-wiki](https://github.com/xodn348/llm-wiki) | LLM-maintained wiki of paradigm-shifting (Fleming-tier) scientific papers — chunk-level graph + topic atlas, Karpathy LLM Wiki pattern conformant | Python | 0 | 2026-05-22 |
@@ -11,7 +12,6 @@ Generated from public GitHub repository metadata at 2026-05-28 17:46 UTC.
 | [cleanup](https://github.com/xodn348/cleanup) | Passive tool-usage tracking + proactive removal recommendations for Claude Code. Never auto-deletes. | Shell | 0 | 2026-05-20 |
 | [BTC_EXP](https://github.com/xodn348/BTC_EXP) | Bitcoin network explorer and analysis tools | Python | 0 | 2026-05-18 |
 | [han](https://github.com/xodn348/han) | A compiled programming language with Korean keywords, written in Rust | Rust | 180 | 2026-05-06 |
-| [destiny](https://github.com/xodn348/destiny) | Daily fortune-telling plugin for Claude Code. | Python | 63 | 2026-05-01 |
 | [cc-img-proxy](https://github.com/xodn348/cc-img-proxy) | PTY proxy that renders inline images in Claude Code via iTerm2 OSC 1337 | TypeScript | 0 | 2026-04-29 |
 | [AIminer](https://github.com/xodn348/AIminer) | AI-powered cryptocurrency miner with MCP protocol integration and multi-coin profit switching | Python | 0 | 2026-03-31 |
 | [ccLatex](https://github.com/xodn348/ccLatex) | Render LaTeX math in terminal streams and PTY-wrapped AI CLI output | TypeScript | 0 | 2026-03-25 |

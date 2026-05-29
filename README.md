@@ -22,6 +22,7 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 
 ### Latest public repos
 
+- [destiny](https://github.com/xodn348/destiny) — Daily fortune-telling plugin for Claude Code. — Python · ★ 64
 - [deeper](https://github.com/xodn348/deeper) — Depth-first interview agent driven by Huntley's ralph + feedback loops. Drills one claim to bedrock (first principle / source of truth); never expands. Per-round fresh subagent dispatch + path-bias self-improvement. — Shell
 - [clawpay](https://github.com/xodn348/clawpay) — Open-source payment MCP server for AI agents — Lithic & Stripe & PayPal — TypeScript
 - [llm-wiki](https://github.com/xodn348/llm-wiki) — LLM-maintained wiki of paradigm-shifting (Fleming-tier) scientific papers — chunk-level graph + topic atlas, Karpathy LLM Wiki pattern conformant — Python
@@ -29,19 +30,18 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 - [cleanup](https://github.com/xodn348/cleanup) — Passive tool-usage tracking + proactive removal recommendations for Claude Code. Never auto-deletes. — Shell
 - [BTC_EXP](https://github.com/xodn348/BTC_EXP) — Bitcoin network explorer and analysis tools — Python
 - [han](https://github.com/xodn348/han) — A compiled programming language with Korean keywords, written in Rust — Rust · ★ 180
-- [destiny](https://github.com/xodn348/destiny) — Daily fortune-telling plugin for Claude Code. — Python · ★ 63
 - [cc-img-proxy](https://github.com/xodn348/cc-img-proxy) — PTY proxy that renders inline images in Claude Code via iTerm2 OSC 1337 — TypeScript
 - [AIminer](https://github.com/xodn348/AIminer) — AI-powered cryptocurrency miner with MCP protocol integration and multi-coin profit switching — Python
 
 ### Most-starred repos
 
 - [han](https://github.com/xodn348/han) — A compiled programming language with Korean keywords, written in Rust — Rust · ★ 180
-- [destiny](https://github.com/xodn348/destiny) — Daily fortune-telling plugin for Claude Code. — Python · ★ 63
+- [destiny](https://github.com/xodn348/destiny) — Daily fortune-telling plugin for Claude Code. — Python · ★ 64
 - [readhn](https://github.com/xodn348/readhn) — AI-native HackerNews MCP Server with EigenTrust expert ranking and explainable quality signals — Python · ★ 4
 - [tokencrush](https://github.com/xodn348/tokencrush) — LLM API cost optimizer — cache responses, compress prompts, cut costs — Python · ★ 2
 - [codekit](https://github.com/xodn348/codekit) — AI-native code quality and security toolkit for AI-assisted development — TypeScript · ★ 1
 
 Full catalog: [projects.md](projects.md) · Machine feed: [projects.json](projects.json) · RSS: [feed.xml](feed.xml)
 
-Last updated: 2026-05-28 17:46 UTC
+Last updated: 2026-05-29 17:46 UTC
 <!-- XODN348-LAB-CHANNEL:END -->
