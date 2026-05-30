@@ -22,9 +22,9 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 
 ### Latest public repos
 
-- [destiny](https://github.com/xodn348/destiny) — Daily fortune-telling plugin for Claude Code. — Python · ★ 64
 - [deeper](https://github.com/xodn348/deeper) — Depth-first interview agent driven by Huntley's ralph + feedback loops. Drills one claim to bedrock (first principle / source of truth); never expands. Per-round fresh subagent dispatch + path-bias self-improvement. — Shell
 - [clawpay](https://github.com/xodn348/clawpay) — Open-source payment MCP server for AI agents — Lithic & Stripe & PayPal — TypeScript
+- [destiny](https://github.com/xodn348/destiny) — Daily fortune-telling plugin for Claude Code. — Python · ★ 64
 - [llm-wiki](https://github.com/xodn348/llm-wiki) — LLM-maintained wiki of paradigm-shifting (Fleming-tier) scientific papers — chunk-level graph + topic atlas, Karpathy LLM Wiki pattern conformant — Python
 - [pegasus](https://github.com/xodn348/pegasus) — Cloud-native autonomous project leader on Claude Code. Phone start → laptop off → autonomous completion. — Python
 - [cleanup](https://github.com/xodn348/cleanup) — Passive tool-usage tracking + proactive removal recommendations for Claude Code. Never auto-deletes. — Shell
@@ -43,5 +43,5 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 
 Full catalog: [projects.md](projects.md) · Machine feed: [projects.json](projects.json) · RSS: [feed.xml](feed.xml)
 
-Last updated: 2026-05-29 17:46 UTC
+Last updated: 2026-05-30 15:39 UTC
 <!-- XODN348-LAB-CHANNEL:END -->

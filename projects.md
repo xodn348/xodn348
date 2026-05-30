@@ -1,12 +1,12 @@
 # xodn348 public project catalog
 
-Generated from public GitHub repository metadata at 2026-05-29 17:46 UTC.
+Generated from public GitHub repository metadata at 2026-05-30 15:39 UTC.
 
 | Project | Description | Lang | Stars | Updated |
 |---|---|---:|---:|---:|
+| [deeper](https://github.com/xodn348/deeper) | Depth-first interview agent driven by Huntley's ralph + feedback loops. Drills one claim to bedrock (first principle / source of truth); never expands. Per-round fresh subagent dispatch + path-bias self-improvement. | Shell | 0 | 2026-05-29 |
+| [clawpay](https://github.com/xodn348/clawpay) | Open-source payment MCP server for AI agents — Lithic & Stripe & PayPal | TypeScript | 0 | 2026-05-29 |
 | [destiny](https://github.com/xodn348/destiny) | Daily fortune-telling plugin for Claude Code. | Python | 64 | 2026-05-29 |
-| [deeper](https://github.com/xodn348/deeper) | Depth-first interview agent driven by Huntley's ralph + feedback loops. Drills one claim to bedrock (first principle / source of truth); never expands. Per-round fresh subagent dispatch + path-bias self-improvement. | Shell | 0 | 2026-05-27 |
-| [clawpay](https://github.com/xodn348/clawpay) | Open-source payment MCP server for AI agents — Lithic & Stripe & PayPal | TypeScript | 0 | 2026-05-22 |
 | [llm-wiki](https://github.com/xodn348/llm-wiki) | LLM-maintained wiki of paradigm-shifting (Fleming-tier) scientific papers — chunk-level graph + topic atlas, Karpathy LLM Wiki pattern conformant | Python | 0 | 2026-05-22 |
 | [pegasus](https://github.com/xodn348/pegasus) | Cloud-native autonomous project leader on Claude Code. Phone start → laptop off → autonomous completion. | Python | 0 | 2026-05-21 |
 | [cleanup](https://github.com/xodn348/cleanup) | Passive tool-usage tracking + proactive removal recommendations for Claude Code. Never auto-deletes. | Shell | 0 | 2026-05-20 |
