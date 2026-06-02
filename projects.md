@@ -1,18 +1,19 @@
 # xodn348 public project catalog
 
-Generated from public GitHub repository metadata at 2026-06-01 19:26 UTC.
+Generated from public GitHub repository metadata at 2026-06-02 18:12 UTC.
 
 | Project | Description | Lang | Stars | Updated |
 |---|---|---:|---:|---:|
+| [future-history](https://github.com/xodn348/future-history) | A Future History of Humanity: a data-anchored 2026→2200 forecast across three branches, with generated era art. | HTML | 0 | 2026-06-02 |
+| [ray.project-reproducibility](https://github.com/xodn348/ray.project-reproducibility) | Clean reproducibility package for Bitcoin transaction data paper | TeX | 0 | 2026-06-02 |
 | [deeper](https://github.com/xodn348/deeper) | Depth-first interview agent driven by Huntley's ralph + feedback loops. Drills one claim to bedrock (first principle / source of truth); never expands. Per-round fresh subagent dispatch + path-bias self-improvement. | Shell | 0 | 2026-06-01 |
-| [ray.project-reproducibility](https://github.com/xodn348/ray.project-reproducibility) | Clean reproducibility package for Bitcoin transaction data paper | TeX | 0 | 2026-05-31 |
 | [clawpay](https://github.com/xodn348/clawpay) | Open-source payment MCP server for AI agents — Lithic & Stripe & PayPal | TypeScript | 0 | 2026-05-29 |
 | [destiny](https://github.com/xodn348/destiny) | Daily fortune-telling plugin for Claude Code. | Python | 65 | 2026-05-29 |
 | [llm-wiki](https://github.com/xodn348/llm-wiki) | LLM-maintained wiki of paradigm-shifting (Fleming-tier) scientific papers — chunk-level graph + topic atlas, Karpathy LLM Wiki pattern conformant | Python | 0 | 2026-05-22 |
 | [pegasus](https://github.com/xodn348/pegasus) | Cloud-native autonomous project leader on Claude Code. Phone start → laptop off → autonomous completion. | Python | 0 | 2026-05-21 |
 | [cleanup](https://github.com/xodn348/cleanup) | Passive tool-usage tracking + proactive removal recommendations for Claude Code. Never auto-deletes. | Shell | 0 | 2026-05-20 |
 | [BTC_EXP](https://github.com/xodn348/BTC_EXP) | Bitcoin network explorer and analysis tools | Python | 0 | 2026-05-18 |
-| [han](https://github.com/xodn348/han) | A compiled programming language with Korean keywords, written in Rust | Rust | 180 | 2026-05-06 |
+| [han](https://github.com/xodn348/han) | A compiled programming language with Korean keywords, written in Rust | Rust | 181 | 2026-05-06 |
 | [cc-img-proxy](https://github.com/xodn348/cc-img-proxy) | PTY proxy that renders inline images in Claude Code via iTerm2 OSC 1337 | TypeScript | 0 | 2026-04-29 |
 | [AIminer](https://github.com/xodn348/AIminer) | AI-powered cryptocurrency miner with MCP protocol integration and multi-coin profit switching | Python | 0 | 2026-03-31 |
 | [ccLatex](https://github.com/xodn348/ccLatex) | Render LaTeX math in terminal streams and PTY-wrapped AI CLI output | TypeScript | 0 | 2026-03-25 |
