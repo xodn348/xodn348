@@ -1,10 +1,10 @@
 # xodn348 public project catalog
 
-Generated from public GitHub repository metadata at 2026-06-02 18:12 UTC.
+Generated from public GitHub repository metadata at 2026-06-03 18:33 UTC.
 
 | Project | Description | Lang | Stars | Updated |
 |---|---|---:|---:|---:|
-| [future-history](https://github.com/xodn348/future-history) | A Future History of Humanity: a data-anchored 2026→2200 forecast across three branches, with generated era art. | HTML | 0 | 2026-06-02 |
+| [future-history](https://github.com/xodn348/future-history) | A Future History of Humanity: a data-anchored 2026→2200 forecast across three branches, with generated era art. | HTML | 0 | 2026-06-03 |
 | [ray.project-reproducibility](https://github.com/xodn348/ray.project-reproducibility) | Clean reproducibility package for Bitcoin transaction data paper | TeX | 0 | 2026-06-02 |
 | [deeper](https://github.com/xodn348/deeper) | Depth-first interview agent driven by Huntley's ralph + feedback loops. Drills one claim to bedrock (first principle / source of truth); never expands. Per-round fresh subagent dispatch + path-bias self-improvement. | Shell | 0 | 2026-06-01 |
 | [clawpay](https://github.com/xodn348/clawpay) | Open-source payment MCP server for AI agents — Lithic & Stripe & PayPal | TypeScript | 0 | 2026-05-29 |
