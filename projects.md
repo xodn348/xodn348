@@ -1,13 +1,15 @@
 # xodn348 public project catalog
 
-Generated from public GitHub repository metadata at 2026-06-05 16:43 UTC.
+Generated from public GitHub repository metadata at 2026-06-06 15:43 UTC.
 
 | Project | Description | Lang | Stars | Updated |
 |---|---|---:|---:|---:|
+| [termpay](https://github.com/xodn348/termpay) | Local CLI wallet that lets AI agents pay autonomously — MCP-native payments router | TypeScript | 0 | 2026-06-05 |
+| [ccLatex](https://github.com/xodn348/ccLatex) | Render LaTeX math in terminal streams and PTY-wrapped AI CLI output | TypeScript | 0 | 2026-06-05 |
+| [deeper](https://github.com/xodn348/deeper) | Depth-first interview agent driven by Huntley's ralph + feedback loops. Drills one claim to bedrock (first principle / source of truth); never expands. Per-round fresh subagent dispatch + path-bias self-improvement. | Shell | 0 | 2026-06-05 |
+| [future-history](https://github.com/xodn348/future-history) | A Future History of Humanity: a data-anchored 2026→2200 forecast across three branches, with generated era art. | HTML | 0 | 2026-06-05 |
 | [clawpay](https://github.com/xodn348/clawpay) | Open-source payment MCP server for AI agents — Lithic & Stripe & PayPal | TypeScript | 0 | 2026-06-05 |
-| [future-history](https://github.com/xodn348/future-history) | A Future History of Humanity: a data-anchored 2026→2200 forecast across three branches, with generated era art. | HTML | 0 | 2026-06-03 |
 | [ray.project-reproducibility](https://github.com/xodn348/ray.project-reproducibility) | Clean reproducibility package for Bitcoin transaction data paper | TeX | 0 | 2026-06-02 |
-| [deeper](https://github.com/xodn348/deeper) | Depth-first interview agent driven by Huntley's ralph + feedback loops. Drills one claim to bedrock (first principle / source of truth); never expands. Per-round fresh subagent dispatch + path-bias self-improvement. | Shell | 0 | 2026-06-01 |
 | [destiny](https://github.com/xodn348/destiny) | Daily fortune-telling plugin for Claude Code. | Python | 65 | 2026-05-29 |
 | [llm-wiki](https://github.com/xodn348/llm-wiki) | LLM-maintained wiki of paradigm-shifting (Fleming-tier) scientific papers — chunk-level graph + topic atlas, Karpathy LLM Wiki pattern conformant | Python | 0 | 2026-05-22 |
 | [pegasus](https://github.com/xodn348/pegasus) | Cloud-native autonomous project leader on Claude Code. Phone start → laptop off → autonomous completion. | Python | 0 | 2026-05-21 |
@@ -16,7 +18,6 @@ Generated from public GitHub repository metadata at 2026-06-05 16:43 UTC.
 | [han](https://github.com/xodn348/han) | A compiled programming language with Korean keywords, written in Rust | Rust | 181 | 2026-05-06 |
 | [cc-img-proxy](https://github.com/xodn348/cc-img-proxy) | PTY proxy that renders inline images in Claude Code via iTerm2 OSC 1337 | TypeScript | 0 | 2026-04-29 |
 | [AIminer](https://github.com/xodn348/AIminer) | AI-powered cryptocurrency miner with MCP protocol integration and multi-coin profit switching | Python | 0 | 2026-03-31 |
-| [ccLatex](https://github.com/xodn348/ccLatex) | Render LaTeX math in terminal streams and PTY-wrapped AI CLI output | TypeScript | 0 | 2026-03-25 |
 | [Fleming-AI](https://github.com/xodn348/Fleming-AI) | AI-powered research assistant for scientific literature | Python | 0 | 2026-03-16 |
 | [codekit](https://github.com/xodn348/codekit) | AI-native code quality and security toolkit for AI-assisted development | TypeScript | 1 | 2026-03-14 |
 | [codesure](https://github.com/xodn348/codesure) | ⚠️ Moved to xodn348/codekit — Privacy-first security scanner (monorepo) | TypeScript | 0 | 2026-03-13 |
@@ -25,7 +26,3 @@ Generated from public GitHub repository metadata at 2026-06-05 16:43 UTC.
 | [readhn](https://github.com/xodn348/readhn) | AI-native HackerNews MCP Server with EigenTrust expert ranking and explainable quality signals | Python | 4 | 2026-03-11 |
 | [AIarmy](https://github.com/xodn348/AIarmy) | Multi-agent orchestration system with security-first design — OWASP compliant | Python | 0 | 2026-02-20 |
 | [tokencrush](https://github.com/xodn348/tokencrush) | LLM API cost optimizer — cache responses, compress prompts, cut costs | Python | 2 | 2026-01-29 |
-| [AI_automated_trading](https://github.com/xodn348/AI_automated_trading) | Automated trading bot with AI-driven market analysis | JavaScript | 0 | 2025-08-25 |
-| [smart_contract](https://github.com/xodn348/smart_contract) | Solidity smart contracts — DeFi, tokens, and governance patterns | Solidity | 0 | 2025-05-29 |
-| [automated-arbitrage-trade](https://github.com/xodn348/automated-arbitrage-trade) | Automated arbitrage trading on Solana — testnet implementation |  | 0 | 2025-05-21 |
-| [google-scholar-search](https://github.com/xodn348/google-scholar-search) | Python tool to search and analyze Google Scholar articles | Python | 0 | 2025-05-08 |
