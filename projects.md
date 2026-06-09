@@ -1,10 +1,9 @@
 # xodn348 public project catalog
 
-Generated from public GitHub repository metadata at 2026-06-08 17:30 UTC.
+Generated from public GitHub repository metadata at 2026-06-09 17:06 UTC.
 
 | Project | Description | Lang | Stars | Updated |
 |---|---|---:|---:|---:|
-| [termpay](https://github.com/xodn348/termpay) | Local CLI wallet that lets AI agents pay autonomously — MCP-native payments router | TypeScript | 0 | 2026-06-05 |
 | [ccLatex](https://github.com/xodn348/ccLatex) | Render LaTeX math in terminal streams and PTY-wrapped AI CLI output | TypeScript | 0 | 2026-06-05 |
 | [deeper](https://github.com/xodn348/deeper) | Depth-first interview agent driven by Huntley's ralph + feedback loops. Drills one claim to bedrock (first principle / source of truth); never expands. Per-round fresh subagent dispatch + path-bias self-improvement. | Shell | 0 | 2026-06-05 |
 | [future-history](https://github.com/xodn348/future-history) | A Future History of Humanity: a data-anchored 2026→2200 forecast across three branches, with generated era art. | HTML | 0 | 2026-06-05 |
