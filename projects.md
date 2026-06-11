@@ -1,6 +1,6 @@
 # xodn348 public project catalog
 
-Generated from public GitHub repository metadata at 2026-06-10 17:39 UTC.
+Generated from public GitHub repository metadata at 2026-06-11 17:47 UTC.
 
 | Project | Description | Lang | Stars | Updated |
 |---|---|---:|---:|---:|
@@ -16,12 +16,8 @@ Generated from public GitHub repository metadata at 2026-06-10 17:39 UTC.
 | [BTC_EXP](https://github.com/xodn348/BTC_EXP) | Bitcoin network explorer and analysis tools | Python | 0 | 2026-05-18 |
 | [han](https://github.com/xodn348/han) | A compiled programming language with Korean keywords, written in Rust | Rust | 181 | 2026-05-06 |
 | [cc-img-proxy](https://github.com/xodn348/cc-img-proxy) | PTY proxy that renders inline images in Claude Code via iTerm2 OSC 1337 | TypeScript | 0 | 2026-04-29 |
-| [AIminer](https://github.com/xodn348/AIminer) | AI-powered cryptocurrency miner with MCP protocol integration and multi-coin profit switching | Python | 0 | 2026-03-31 |
 | [Fleming-AI](https://github.com/xodn348/Fleming-AI) | AI-powered research assistant for scientific literature | Python | 0 | 2026-03-16 |
 | [codekit](https://github.com/xodn348/codekit) | AI-native code quality and security toolkit for AI-assisted development | TypeScript | 1 | 2026-03-14 |
-| [codesure](https://github.com/xodn348/codesure) | ⚠️ Moved to xodn348/codekit — Privacy-first security scanner (monorepo) | TypeScript | 0 | 2026-03-13 |
-| [ai-native](https://github.com/xodn348/ai-native) | ⚠️ Moved to xodn348/codekit — AI-native coding guidelines (monorepo) | JavaScript | 0 | 2026-03-13 |
 | [codesure-rules](https://github.com/xodn348/codesure-rules) | Community-maintained security rules for CodeSure MCP scanner. Malicious code pattern database. |  | 0 | 2026-03-12 |
 | [readhn](https://github.com/xodn348/readhn) | AI-native HackerNews MCP Server with EigenTrust expert ranking and explainable quality signals | Python | 4 | 2026-03-11 |
-| [AIarmy](https://github.com/xodn348/AIarmy) | Multi-agent orchestration system with security-first design — OWASP compliant | Python | 0 | 2026-02-20 |
 | [tokencrush](https://github.com/xodn348/tokencrush) | LLM API cost optimizer — cache responses, compress prompts, cut costs | Python | 2 | 2026-01-29 |
