@@ -1,14 +1,14 @@
 # xodn348 public project catalog
 
-Generated from public GitHub repository metadata at 2026-06-13 15:51 UTC.
+Generated from public GitHub repository metadata at 2026-06-14 15:59 UTC.
 
 | Project | Description | Lang | Stars | Updated |
 |---|---|---:|---:|---:|
+| [ray.project-reproducibility](https://github.com/xodn348/ray.project-reproducibility) | Clean reproducibility package for Bitcoin transaction data paper | TeX | 0 | 2026-06-13 |
 | [ccLatex](https://github.com/xodn348/ccLatex) | Render LaTeX math in terminal streams and PTY-wrapped AI CLI output | TypeScript | 0 | 2026-06-05 |
 | [deeper](https://github.com/xodn348/deeper) | Depth-first interview agent driven by Huntley's ralph + feedback loops. Drills one claim to bedrock (first principle / source of truth); never expands. Per-round fresh subagent dispatch + path-bias self-improvement. | Shell | 0 | 2026-06-05 |
 | [future-history](https://github.com/xodn348/future-history) | A Future History of Humanity: a data-anchored 2026→2200 forecast across three branches, with generated era art. | HTML | 0 | 2026-06-05 |
 | [clawpay](https://github.com/xodn348/clawpay) | Open-source payment MCP server for AI agents — Lithic & Stripe & PayPal | TypeScript | 0 | 2026-06-05 |
-| [ray.project-reproducibility](https://github.com/xodn348/ray.project-reproducibility) | Clean reproducibility package for Bitcoin transaction data paper | TeX | 0 | 2026-06-02 |
 | [destiny](https://github.com/xodn348/destiny) | Daily fortune-telling plugin for Claude Code. | Python | 65 | 2026-05-29 |
 | [llm-wiki](https://github.com/xodn348/llm-wiki) | LLM-maintained wiki of paradigm-shifting (Fleming-tier) scientific papers — chunk-level graph + topic atlas, Karpathy LLM Wiki pattern conformant | Python | 0 | 2026-05-22 |
 | [pegasus](https://github.com/xodn348/pegasus) | Cloud-native autonomous project leader on Claude Code. Phone start → laptop off → autonomous completion. | Python | 0 | 2026-05-21 |
