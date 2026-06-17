@@ -35,7 +35,7 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 
 ### Most-starred repos
 
-- [han](https://github.com/xodn348/han) — A compiled programming language with Korean keywords, written in Rust — Rust · ★ 180
+- [han](https://github.com/xodn348/han) — A compiled programming language with Korean keywords, written in Rust — Rust · ★ 184
 - [destiny](https://github.com/xodn348/destiny) — Daily fortune-telling plugin for Claude Code. — Python · ★ 65
 - [readhn](https://github.com/xodn348/readhn) — AI-native HackerNews MCP Server with EigenTrust expert ranking and explainable quality signals — Python · ★ 4
 - [tokencrush](https://github.com/xodn348/tokencrush) — LLM API cost optimizer — cache responses, compress prompts, cut costs — Python · ★ 2
@@ -43,5 +43,5 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 
 Full catalog: [projects.md](projects.md) · Machine feed: [projects.json](projects.json) · RSS: [feed.xml](feed.xml)
 
-Last updated: 2026-06-16 18:40 UTC
+Last updated: 2026-06-17 17:26 UTC
 <!-- XODN348-LAB-CHANNEL:END -->
