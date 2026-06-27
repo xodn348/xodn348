@@ -1,5 +1,5 @@
 <p align="center">
-  Finance background | Code by choice | Maximum freedom
+  I build software and do research across AI, blockchain, and cryptography, leveraging AI agents.
 </p>
 
 <p align="center">
