@@ -1,6 +1,6 @@
 # xodn348 public project catalog
 
-Generated from public GitHub repository metadata at 2026-06-30 16:32 UTC.
+Generated from public GitHub repository metadata at 2026-07-01 16:41 UTC.
 
 | Project | Description | Lang | Stars | Updated |
 |---|---|---:|---:|---:|
@@ -14,7 +14,7 @@ Generated from public GitHub repository metadata at 2026-06-30 16:32 UTC.
 | [pegasus](https://github.com/xodn348/pegasus) | Cloud-native autonomous project leader on Claude Code. Phone start → laptop off → autonomous completion. | Python | 0 | 2026-05-21 |
 | [cleanup](https://github.com/xodn348/cleanup) | Passive tool-usage tracking + proactive removal recommendations for Claude Code. Never auto-deletes. | Shell | 0 | 2026-05-20 |
 | [BTC_EXP](https://github.com/xodn348/BTC_EXP) | Bitcoin network explorer and analysis tools | Python | 0 | 2026-05-18 |
-| [han](https://github.com/xodn348/han) | A compiled programming language with Korean keywords, written in Rust | Rust | 184 | 2026-05-06 |
+| [han](https://github.com/xodn348/han) | A compiled programming language with Korean keywords, written in Rust | Rust | 183 | 2026-05-06 |
 | [cc-img-proxy](https://github.com/xodn348/cc-img-proxy) | PTY proxy that renders inline images in Claude Code via iTerm2 OSC 1337 | TypeScript | 0 | 2026-04-29 |
 | [Fleming-AI](https://github.com/xodn348/Fleming-AI) | AI-powered research assistant for scientific literature | Python | 0 | 2026-03-16 |
 | [codekit](https://github.com/xodn348/codekit) | AI-native code quality and security toolkit for AI-assisted development | TypeScript | 1 | 2026-03-14 |
