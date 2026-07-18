@@ -22,6 +22,7 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 
 ### Latest public repos
 
+- [computermoney](https://github.com/xodn348/computermoney) — Autonomous payments between AI agents — Rust
 - [codesure](https://github.com/xodn348/codesure) — ⚠️ Moved to xodn348/codekit — Privacy-first security scanner (monorepo) — TypeScript
 - [ray.project-reproducibility](https://github.com/xodn348/ray.project-reproducibility) — Clean reproducibility package for Bitcoin transaction data paper — TeX
 - [ccLatex](https://github.com/xodn348/ccLatex) — Render LaTeX math in terminal streams and PTY-wrapped AI CLI output — TypeScript
@@ -31,17 +32,16 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 - [destiny](https://github.com/xodn348/destiny) — Daily fortune-telling plugin for Claude Code. — Python · ★ 67
 - [llm-wiki](https://github.com/xodn348/llm-wiki) — LLM-maintained wiki of paradigm-shifting (Fleming-tier) scientific papers — chunk-level graph + topic atlas, Karpathy LLM Wiki pattern conformant — Python
 - [pegasus](https://github.com/xodn348/pegasus) — Cloud-native autonomous project leader on Claude Code. Phone start → laptop off → autonomous completion. — Python
-- [cleanup](https://github.com/xodn348/cleanup) — Passive tool-usage tracking + proactive removal recommendations for Claude Code. Never auto-deletes. — Shell
 
 ### Most-starred repos
 
 - [han](https://github.com/xodn348/han) — A compiled programming language with Korean keywords, written in Rust — Rust · ★ 185
 - [destiny](https://github.com/xodn348/destiny) — Daily fortune-telling plugin for Claude Code. — Python · ★ 67
-- [readhn](https://github.com/xodn348/readhn) — AI-native HackerNews MCP Server with EigenTrust expert ranking and explainable quality signals — Python · ★ 4
+- [readhn](https://github.com/xodn348/readhn) — AI-native HackerNews MCP Server with EigenTrust expert ranking and explainable quality signals — Python · ★ 5
 - [tokencrush](https://github.com/xodn348/tokencrush) — LLM API cost optimizer — cache responses, compress prompts, cut costs — Python · ★ 2
 - [codekit](https://github.com/xodn348/codekit) — AI-native code quality and security toolkit for AI-assisted development — TypeScript · ★ 1
 
 Full catalog: [projects.md](projects.md) · Machine feed: [projects.json](projects.json) · RSS: [feed.xml](feed.xml)
 
-Last updated: 2026-07-17 15:45 UTC
+Last updated: 2026-07-18 15:17 UTC
 <!-- XODN348-LAB-CHANNEL:END -->

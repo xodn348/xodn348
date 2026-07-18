@@ -1,9 +1,10 @@
 # xodn348 public project catalog
 
-Generated from public GitHub repository metadata at 2026-07-17 15:45 UTC.
+Generated from public GitHub repository metadata at 2026-07-18 15:17 UTC.
 
 | Project | Description | Lang | Stars | Updated |
 |---|---|---:|---:|---:|
+| [computermoney](https://github.com/xodn348/computermoney) | Autonomous payments between AI agents | Rust | 0 | 2026-07-18 |
 | [codesure](https://github.com/xodn348/codesure) | ⚠️ Moved to xodn348/codekit — Privacy-first security scanner (monorepo) | TypeScript | 0 | 2026-07-05 |
 | [ray.project-reproducibility](https://github.com/xodn348/ray.project-reproducibility) | Clean reproducibility package for Bitcoin transaction data paper | TeX | 0 | 2026-06-13 |
 | [ccLatex](https://github.com/xodn348/ccLatex) | Render LaTeX math in terminal streams and PTY-wrapped AI CLI output | TypeScript | 0 | 2026-06-05 |
@@ -20,5 +21,5 @@ Generated from public GitHub repository metadata at 2026-07-17 15:45 UTC.
 | [Fleming-AI](https://github.com/xodn348/Fleming-AI) | AI-powered research assistant for scientific literature | Python | 0 | 2026-03-16 |
 | [codekit](https://github.com/xodn348/codekit) | AI-native code quality and security toolkit for AI-assisted development | TypeScript | 1 | 2026-03-14 |
 | [codesure-rules](https://github.com/xodn348/codesure-rules) | Community-maintained security rules for CodeSure MCP scanner. Malicious code pattern database. |  | 0 | 2026-03-12 |
-| [readhn](https://github.com/xodn348/readhn) | AI-native HackerNews MCP Server with EigenTrust expert ranking and explainable quality signals | Python | 4 | 2026-03-11 |
+| [readhn](https://github.com/xodn348/readhn) | AI-native HackerNews MCP Server with EigenTrust expert ranking and explainable quality signals | Python | 5 | 2026-03-11 |
 | [tokencrush](https://github.com/xodn348/tokencrush) | LLM API cost optimizer — cache responses, compress prompts, cut costs | Python | 2 | 2026-01-29 |
