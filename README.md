@@ -1,3 +1,4 @@
+```html
 <p align="center">
-  Finance background | Code by choice | Maximum freedom
+  <code>$ finance --export | code --build | echo "Maximum Freedom"
 </p>
