@@ -1,3 +1,3 @@
 ```html
-  <code>$ finance --export | code --build | echo "Maximum Freedom"
+  $ finance --export | code --build | echo "Maximum Freedom"
 
