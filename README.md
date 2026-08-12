@@ -9,7 +9,7 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 
 ### Latest public repos
 
-- [han](https://github.com/xodn348/han) — A compiled programming language with Korean keywords, written in Rust — Rust · ★ 185
+- [han](https://github.com/xodn348/han) — A compiled programming language with Korean keywords, written in Rust — Rust · ★ 184
 - [computermoney](https://github.com/xodn348/computermoney) — Autonomous payments between AI agents — Rust
 - [codesure](https://github.com/xodn348/codesure) — ⚠️ Moved to xodn348/codekit — Privacy-first security scanner (monorepo) — TypeScript
 - [ray.project-reproducibility](https://github.com/xodn348/ray.project-reproducibility) — Clean reproducibility package for Bitcoin transaction data paper — TeX
@@ -22,7 +22,7 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 
 ### Most-starred repos
 
-- [han](https://github.com/xodn348/han) — A compiled programming language with Korean keywords, written in Rust — Rust · ★ 185
+- [han](https://github.com/xodn348/han) — A compiled programming language with Korean keywords, written in Rust — Rust · ★ 184
 - [destiny](https://github.com/xodn348/destiny) — Daily fortune-telling plugin for Claude Code. — Python · ★ 67
 - [readhn](https://github.com/xodn348/readhn) — AI-native HackerNews MCP Server with EigenTrust expert ranking and explainable quality signals — Python · ★ 5
 - [tokencrush](https://github.com/xodn348/tokencrush) — LLM API cost optimizer — cache responses, compress prompts, cut costs — Python · ★ 2
@@ -30,5 +30,5 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 
 Full catalog: [projects.md](projects.md) · Machine feed: [projects.json](projects.json) · RSS: [feed.xml](feed.xml)
 
-Last updated: 2026-08-11 15:17 UTC
+Last updated: 2026-08-12 15:16 UTC
 <!-- XODN348-LAB-CHANNEL:END -->

@@ -1,10 +1,10 @@
 # xodn348 public project catalog
 
-Generated from public GitHub repository metadata at 2026-08-11 15:17 UTC.
+Generated from public GitHub repository metadata at 2026-08-12 15:16 UTC.
 
 | Project | Description | Lang | Stars | Updated |
 |---|---|---:|---:|---:|
-| [han](https://github.com/xodn348/han) | A compiled programming language with Korean keywords, written in Rust | Rust | 185 | 2026-07-31 |
+| [han](https://github.com/xodn348/han) | A compiled programming language with Korean keywords, written in Rust | Rust | 184 | 2026-07-31 |
 | [computermoney](https://github.com/xodn348/computermoney) | Autonomous payments between AI agents | Rust | 0 | 2026-07-19 |
 | [codesure](https://github.com/xodn348/codesure) | ⚠️ Moved to xodn348/codekit — Privacy-first security scanner (monorepo) | TypeScript | 0 | 2026-07-05 |
 | [ray.project-reproducibility](https://github.com/xodn348/ray.project-reproducibility) | Clean reproducibility package for Bitcoin transaction data paper | TeX | 0 | 2026-06-13 |
