@@ -10,7 +10,7 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 ### Latest public repos
 
 - [han](https://github.com/xodn348/han) — A compiled programming language with Korean keywords, written in Rust — Rust · ★ 184
-- [computermoney](https://github.com/xodn348/computermoney) — Autonomous payments between AI agents — Rust
+- [computermoney](https://github.com/xodn348/computermoney) — Autonomous payments between AI agents — Rust · ★ 1
 - [codesure](https://github.com/xodn348/codesure) — ⚠️ Moved to xodn348/codekit — Privacy-first security scanner (monorepo) — TypeScript
 - [ray.project-reproducibility](https://github.com/xodn348/ray.project-reproducibility) — Clean reproducibility package for Bitcoin transaction data paper — TeX
 - [ccLatex](https://github.com/xodn348/ccLatex) — Render LaTeX math in terminal streams and PTY-wrapped AI CLI output — TypeScript
@@ -26,9 +26,10 @@ Auto-updated from public GitHub repository metadata. No HN/Reddit/X bot posting;
 - [destiny](https://github.com/xodn348/destiny) — Daily fortune-telling plugin for Claude Code. — Python · ★ 67
 - [readhn](https://github.com/xodn348/readhn) — AI-native HackerNews MCP Server with EigenTrust expert ranking and explainable quality signals — Python · ★ 5
 - [tokencrush](https://github.com/xodn348/tokencrush) — LLM API cost optimizer — cache responses, compress prompts, cut costs — Python · ★ 2
+- [computermoney](https://github.com/xodn348/computermoney) — Autonomous payments between AI agents — Rust · ★ 1
 - [codekit](https://github.com/xodn348/codekit) — AI-native code quality and security toolkit for AI-assisted development — TypeScript · ★ 1
 
 Full catalog: [projects.md](projects.md) · Machine feed: [projects.json](projects.json) · RSS: [feed.xml](feed.xml)
 
-Last updated: 2026-09-22 18:08 UTC
+Last updated: 2026-09-23 18:25 UTC
 <!-- XODN348-LAB-CHANNEL:END -->
